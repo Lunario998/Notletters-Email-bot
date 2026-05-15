@@ -19,6 +19,8 @@ LOG_LEVEL=INFO
 NEW_PASSWORD=пароль
 ```
 
+Запускать так:
+
 ```bash
 python -m src.main
 ```
